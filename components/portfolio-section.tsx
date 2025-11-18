@@ -46,9 +46,17 @@ const projects = [
       "/projects/gated-community-in-texas-america/render-1.jpg",
       "/projects/gated-community-in-texas-america/render-2.jpg",
       "/projects/gated-community-in-texas-america/render-3.jpg",
+      "/projects/gated-community-in-texas-america/render-4.jpg",
+      "/projects/gated-community-in-texas-america/render-5.jpg",
+      "/projects/gated-community-in-texas-america/render-6.jpg",
+      "/projects/gated-community-in-texas-america/render-7.jpg",
+      "/projects/gated-community-in-texas-america/render-8.jpg",
+      "/projects/gated-community-in-texas-america/render-9.jpg",
+      "/projects/gated-community-in-texas-america/render-10.jpg",
+      "/projects/gated-community-in-texas-america/render-11.jpg",
     ],
     description:
-      "Luxury gated community development in Texas featuring modern architecture and premium amenities. The project combines elegant residential design with comprehensive community planning.",
+      "This project is a purpose-built, gated community in Texas, designed as a sanctuary for our nation's disabled army personnel. The core mission is twofold:to provide a secure, accessible, and supportive living environment, and to foster financial independence.Our innovative model empowers residents by enabling them to leverage their homes for short-term rentals (such as Airbnb). This creates a sustainable income stream and a unique sense of purpose.To support this, the community is also a premier destination for visitors. Guests can enjoy a wide array of leisure and recreational activities, all while staying in a community that honors those who have served. It is a place where gratitude, hospitality, and empowerment meet.",
   },
   {
     title: "Luxury Apartment Renovation",
