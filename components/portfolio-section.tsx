@@ -84,7 +84,7 @@ const projects = [
   {
   title: "Revit Project Setup and Clash Detection",
   category: "BIM / Construction Management",
-  cover: "/projects/revit-project-setup-and-clash-detection/cover.jpg",
+  cover: "/projects/revit-project-setup-and-clash-detection/cover.png",
   gallery: [
     "/projects/revit-project-setup-and-clash-detection/render-1.png",
     "/projects/revit-project-setup-and-clash-detection/render-2.png",
