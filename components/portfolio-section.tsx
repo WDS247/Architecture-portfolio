@@ -86,12 +86,12 @@ const projects = [
   category: "BIM / Construction Management",
   cover: "/projects/revit-project-setup-and-clash-detection/cover.jpg",
   gallery: [
-    "/projects/revit-project-setup-and-clash-detection/render-1.jpg",
-    "/projects/revit-project-setup-and-clash-detection/render-2.jpg",
-    "/projects/revit-project-setup-and-clash-detection/render-3.jpg",
-    "/projects/revit-project-setup-and-clash-detection/render-4.jpg",
-    "/projects/revit-project-setup-and-clash-detection/render-5.jpg",
-    "/projects/revit-project-setup-and-clash-detection/render-6.jpg"
+    "/projects/revit-project-setup-and-clash-detection/render-1.png",
+    "/projects/revit-project-setup-and-clash-detection/render-2.png",
+    "/projects/revit-project-setup-and-clash-detection/render-3.png",
+    "/projects/revit-project-setup-and-clash-detection/render-4.png",
+    "/projects/revit-project-setup-and-clash-detection/render-5.png",
+    "/projects/revit-project-setup-and-clash-detection/render-6.png"
   ],
   description:
     "A comprehensive Revit project setup including linked model coordination, template customization, and clash detection workflows using Revit and Solibri."
