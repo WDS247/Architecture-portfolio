@@ -59,15 +59,15 @@ const projects = [
       "This project is a purpose-built, gated community in Texas, designed as a sanctuary for our nation's disabled army personnel. The core mission is twofold:to provide a secure, accessible, and supportive living environment, and to foster financial independence.Our innovative model empowers residents by enabling them to leverage their homes for short-term rentals (such as Airbnb). This creates a sustainable income stream and a unique sense of purpose.To support this, the community is also a premier destination for visitors. Guests can enjoy a wide array of leisure and recreational activities, all while staying in a community that honors those who have served. It is a place where gratitude, hospitality, and empowerment meet.",
   },
   {
-    title: "Luxury Apartment Renovation",
+    title: "Neo Classical Interior Design",
     category: "Interior Design",
-    cover: "/projects/luxury-apartment-renovation/cover.jpeg",
+    cover: "/projects/neo-classical-interior-design/cover.jpeg",
     gallery: [
-      "/projects/luxury-apartment-renovation/render-1.jpeg",
-      "/projects/luxury-apartment-renovation/render-2.jpeg",
-      "/projects/luxury-apartment-renovation/render-3.jpeg",
-      "/projects/luxury-apartment-renovation/render-4.jpeg",
-      "/projects/luxury-apartment-renovation/render-5.jpeg",
+      "/projects/neo-classical-interior-design/render-1.jpeg",
+      "/projects/neo-classical-interior-design/render-2.jpeg",
+      "/projects/neo-classical-interior-design/render-3.jpeg",
+      "/projects/neo-classical-interior-design/render-4.jpeg",
+      "/projects/neo-classical-interior-design/render-5.jpeg",
     ],
     description:
       "Complete interior renovation with custom furniture design and high-end finishes. Every detail carefully curated to create a sophisticated and comfortable living space.",
@@ -158,6 +158,21 @@ const projects = [
   ],
   description:
     "A contemporary residential villa designed with clean geometric forms, warm textures, and a balanced interplay of solid and void. The design emphasizes large glazed openings, cantilevered masses, wooden louvers, and a refined material palette to create a modern, elegant family home. The landscape and entry zone were developed to complement the architectural language, enhancing both privacy and visual appeal."
+},
+{
+  title: "Modern Apartment Renovation in Texas",
+  category: "Interior Design",
+  cover: "/projects/modern-apartment-renovation-in-texas/cover.jpeg",
+  gallery: [
+    "/projects/modern-apartment-renovation-in-texas/render-1.jpeg",
+    "/projects/modern-apartment-renovation-in-texas/render-2.jpeg",
+    "/projects/modern-apartment-renovation-in-texas/render-3.jpeg",
+    "/projects/modern-apartment-renovation-in-texas/render-4.jpeg",
+    "/projects/modern-apartment-renovation-in-texas/render-5.jpeg",
+    "/projects/modern-apartment-renovation-in-texas/render-6.jpeg"
+  ],
+  description:
+    "This project involved a contemporary renovation of a Texas apartment, focusing on enhancing spatial efficiency, natural light penetration, and material refinement. The design introduces warm neutral palettes, modern fixtures, and optimized circulation, transforming the existing unit into a functional, visually seamless living environment. Careful attention was given to texture balance and lighting design to achieve a clean, modern aesthetic while maintaining comfort and practicality."
 },
 
 
