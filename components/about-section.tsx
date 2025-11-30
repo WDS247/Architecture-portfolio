@@ -43,7 +43,7 @@ export function AboutSection() {
               </div>
             </div>
 
-            <div className="pt-4">
+           <div className="pt-4">
   <a
     href="/cv/usman-waheed-cv.pdf"
     download
@@ -59,17 +59,13 @@ export function AboutSection() {
   </a>
 </div>
 
-
-          <div className="relative h-[400px] lg:h-[500px] rounded-2xl overflow-hidden bg-muted/20 backdrop-blur-sm border border-border">
-            <div className="absolute inset-0 bg-gradient-to-br from-accent/10 to-transparent" />
-            <img
-              src="/professional-architect-portrait-with-modern-archit.jpg"
-              alt="Usman Waheed"
-              className="w-full h-full object-cover opacity-90"
-            />
-          </div>
-        </div>
-      </div>
-    </section>
-  )
-}
+<div className="relative h-[400px] lg:h-[500px] rounded-2xl overflow-hidden bg-muted/20 backdrop-blur-sm border border-border/50 mt-6">
+  <div className="absolute inset-0 bg-gradient-to-br from-accent/10 to-transparent" />
+  
+  <Image
+    src="/professional-architect-portrait-with-modern-archit.jpg"
+    alt="Usman Waheed"
+    fill
+    className="object-cover rounded-xl"
+  />
+</div>
