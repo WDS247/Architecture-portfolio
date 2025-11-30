@@ -109,6 +109,25 @@ const projects = [
   description:
     "This project involved developing a complete 5D BIM workflow by exporting the architectural and structural model as IFC and performing quantity extraction using BlenderBIM. Instead of relying on built-in QTO tools, a process-driven cost simulation workflow was used. Each construction element was linked to custom resource definitions, activity durations, labor/equipment inputs, and unit pricing. Task sequencing and dependencies were defined to generate a coordinated Gantt schedule, which automatically integrated with cost parameters to produce time-based cost forecasts and cumulative cash-flow analysis. The result was a fully connected 5D environment where quantities, cost, and schedule responded dynamically to model updates."
 },
+{
+  title: "Parametric Pavilion — Dynamo + Energy Analysis",
+  category: "Computational Design / Environmental Simulation",
+  cover: "/projects/parametric-pavilion/cover.jpg",
+  gallery: [
+    "/projects/parametric-pavilion/render-1.png",
+    "/projects/parametric-pavilion/render-2.png",
+    "/projects/parametric-pavilion/render-3.png",
+    "/projects/parametric-pavilion/render-4.png",
+    "/projects/parametric-pavilion/render-5.png",
+    "/projects/parametric-pavilion/render-6.png",
+    "/projects/parametric-pavilion/render-7.jpg",
+    "/projects/parametric-pavilion/render-8.jpg",
+    "/projects/parametric-pavilion/render-9.jpg",
+    "/projects/parametric-pavilion/animation.mp4"
+  ],
+  description:
+    "A parametric pavilion generated in Autodesk Dynamo, inspired by Bryan Garcia’s geometric studies. The structure was developed through procedural form-finding with adjustable parameters and automated surface generation. Following the computational modeling, the pavilion was evaluated through full energy and daylight analysis in 3ds Max, assessing solar exposure, thermal performance, and material efficiency. This workflow demonstrates the integration of parametric design with environmental simulation for informed architectural decision-making."
+},
 
 
 ]
