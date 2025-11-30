@@ -128,6 +128,19 @@ const projects = [
   description:
     "A parametric pavilion generated in Autodesk Dynamo, inspired by Bryan Garcia’s geometric studies. The structure was developed through procedural form-finding with adjustable parameters and automated surface generation. Following the computational modeling, the pavilion was evaluated through full energy and daylight analysis in 3ds Max, assessing solar exposure, thermal performance, and material efficiency. This workflow demonstrates the integration of parametric design with environmental simulation for informed architectural decision-making."
 },
+{
+  title: "Pharmaceutical Company Headquarters",
+  category: "Architecture / Interior Planning",
+  cover: "/projects/pharmaceutical-company-headquarters/cover.jpeg", // or .png
+  gallery: [
+    "/projects/pharmaceutical-company-headquarters/render-1.jpeg",
+    "/projects/pharmaceutical-company-headquarters/render-2.jpeg",
+    "/projects/pharmaceutical-company-headquarters/render-3.jpeg",
+    "/projects/pharmaceutical-company-headquarters/render-4.jpeg",
+  ],
+  description:
+    "This project involved the architectural design and spatial planning of a new headquarters facility for a pharmaceutical company. The proposal focused on creating an efficient, high-performance workplace that supports research, administration, and client engagement functions. Select executive and managerial offices were designed in detail with complete interior concepts and material palettes, creating a professional and future-ready workspace."
+},
 
 
 ]
