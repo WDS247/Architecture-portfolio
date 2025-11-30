@@ -61,10 +61,13 @@ const projects = [
   {
     title: "Luxury Apartment Renovation",
     category: "Interior Design",
-    cover: "/projects/luxury-apartment-renovation/cover.jpg",
+    cover: "/projects/luxury-apartment-renovation/cover.jpeg",
     gallery: [
-      "/projects/luxury-apartment-renovation/render-1.jpg",
-      "/projects/luxury-apartment-renovation/render-2.jpg",
+      "/projects/luxury-apartment-renovation/render-1.jpeg",
+      "/projects/luxury-apartment-renovation/render-2.jpeg",
+      "/projects/luxury-apartment-renovation/render-3.jpeg",
+      "/projects/luxury-apartment-renovation/render-4.jpeg",
+      "/projects/luxury-apartment-renovation/render-5.jpeg",
     ],
     description:
       "Complete interior renovation with custom furniture design and high-end finishes. Every detail carefully curated to create a sophisticated and comfortable living space.",
