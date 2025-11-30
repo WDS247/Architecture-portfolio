@@ -141,6 +141,21 @@ const projects = [
   description:
     "This project involved the architectural design and spatial planning of a new headquarters facility for a pharmaceutical company. The proposal focused on creating an efficient, high-performance workplace that supports research, administration, and client engagement functions. Select executive and managerial offices were designed in detail with complete interior concepts and material palettes, creating a professional and future-ready workspace."
 },
+{
+  title: "Modern Residential Villa – Pakistan",
+  category: "Residential Architecture",
+  cover: "/projects/modern-residential-villa/cover.jpg",
+  gallery: [
+    "/projects/modern-residential-villa/render-1.jpeg",
+    "/projects/modern-residential-villa/render-2.jpg",
+    "/projects/modern-residential-villa/render-3.jpg",
+    "/projects/modern-residential-villa/render-4.jpg",
+    "/projects/modern-residential-villa/render-5.jpg",
+    "/projects/modern-residential-villa/render-6.jpg",
+  ],
+  description:
+    "A contemporary residential villa designed with clean geometric forms, warm textures, and a balanced interplay of solid and void. The design emphasizes large glazed openings, cantilevered masses, wooden louvers, and a refined material palette to create a modern, elegant family home. The landscape and entry zone were developed to complement the architectural language, enhancing both privacy and visual appeal."
+},
 
 
 ]
