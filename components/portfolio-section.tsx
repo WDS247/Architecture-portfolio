@@ -96,6 +96,19 @@ const projects = [
   description:
     "A comprehensive Revit project setup including linked model coordination, template customization, and clash detection workflows using Revit and Solibri."
 },
+{
+  title: "BIM 5D Costing",
+  category: "BIM / Cost Management",
+  cover: "/projects/bim-5d-costing/cover.jpg",   // OR .png — match your file
+  gallery: [
+    "/projects/bim-5d-costing/render-1.png",
+    "/projects/bim-5d-costing/render-2.jpg",
+    "/projects/bim-5d-costing/render-3.jpg",    // example video
+    "/projects/bim-5d-costing/render-4.jpg"
+  ],
+  description:
+    "This project involved developing a complete 5D BIM workflow by exporting the architectural and structural model as IFC and performing quantity extraction using BlenderBIM. Instead of relying on built-in QTO tools, a process-driven cost simulation workflow was used. Each construction element was linked to custom resource definitions, activity durations, labor/equipment inputs, and unit pricing. Task sequencing and dependencies were defined to generate a coordinated Gantt schedule, which automatically integrated with cost parameters to produce time-based cost forecasts and cumulative cash-flow analysis. The result was a fully connected 5D environment where quantities, cost, and schedule responded dynamically to model updates."
+},
 
 
 ]
