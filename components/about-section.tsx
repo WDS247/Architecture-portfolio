@@ -44,15 +44,21 @@ export function AboutSection() {
             </div>
 
             <div className="pt-4">
-              <Button
-                variant="outline"
-                className="rounded-full border-accent text-accent hover:bg-accent hover:text-accent-foreground bg-transparent"
-              >
-                <Download className="mr-2 h-4 w-4" />
-                Download CV
-              </Button>
-            </div>
-          </div>
+  <a
+    href="/cv/usman-waheed-cv.pdf"
+    download
+    className="inline-block"
+  >
+    <Button
+      variant="outline"
+      className="rounded-full border-accent text-accent hover:bg-accent hover:text-accent-foreground bg-transparent"
+    >
+      <Download className="mr-2 h-4 w-4" />
+      Download CV
+    </Button>
+  </a>
+</div>
+
 
           <div className="relative h-[400px] lg:h-[500px] rounded-2xl overflow-hidden bg-muted/20 backdrop-blur-sm border border-border">
             <div className="absolute inset-0 bg-gradient-to-br from-accent/10 to-transparent" />
