@@ -7,9 +7,9 @@ import { ProjectModal } from "./project-modal"
 
 const projects = [
   {
-    title: "Modern Residential Complex",
+    title: "HIGH RISE TOWERS-API-DUBAI",
     category: "Architecture & Commercial Design",
-    cover: "/projects/modern-residential-complex/cover.jpg",
+    cover: "/projects/HIGH RISE TOWERS-API-DUBAI/cover.jpg",
     gallery: [
       "/projects/modern-residential-complex/render-1.jpg",
       "/projects/modern-residential-complex/render-2.jpg",
