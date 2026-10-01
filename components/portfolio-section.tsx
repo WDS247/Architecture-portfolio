@@ -11,9 +11,9 @@ const projects = [
     category: "Architecture & Commercial Design",
     cover: "/projects/HIGH RISE TOWERS-API-DUBAI/cover.jpg",
     gallery: [
-      "/projects/modern-residential-complex/render-1.jpg",
-      "/projects/modern-residential-complex/render-2.jpg",
-      "/projects/modern-residential-complex/render-3.jpg",
+      "/projects/HIGH RISE TOWERS-API-DUBAI/render-1.jpg",
+      "/projects/HIGH RISE TOWERS-API-DUBAI/render-2.jpg",
+      "/projects/HIGH RISE TOWERS-API-DUBAI/render-3.jpg",
     ],
     description:
       "A sustainable residential project featuring smart building systems and BIM coordination across all disciplines. This development integrates cutting-edge technology with environmentally conscious design principles.",
