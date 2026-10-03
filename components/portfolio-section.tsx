@@ -8,15 +8,21 @@ import { ProjectModal } from "./project-modal"
 const projects = [
   {
     title: "HIGH RISE TOWERS-API-DUBAI",
-    category: "Architecture & Commercial Design",
+    category: "BIM Coordination & Computational BIM",
     cover: "/projects/HIGH RISE TOWERS-API-DUBAI/cover.jpg",
     gallery: [
       "/projects/HIGH RISE TOWERS-API-DUBAI/render-1.jpg",
       "/projects/HIGH RISE TOWERS-API-DUBAI/render-2.jpg",
       "/projects/HIGH RISE TOWERS-API-DUBAI/render-3.jpg",
+      "/projects/HIGH RISE TOWERS-API-DUBAI/render-4.jpg",
+      "/projects/HIGH RISE TOWERS-API-DUBAI/render-5.jpg",
+      "/projects/HIGH RISE TOWERS-API-DUBAI/render-6.jpg",
+      "/projects/HIGH RISE TOWERS-API-DUBAI/render-7.jpg",
+      "/projects/HIGH RISE TOWERS-API-DUBAI/render-8.jpg",
+      "/projects/HIGH RISE TOWERS-API-DUBAI/render-9.jpg",
     ],
     description:
-      "A sustainable residential project featuring smart building systems and BIM coordination across all disciplines. This development integrates cutting-edge technology with environmentally conscious design principles.",
+      "Corinthia Dubai is a landmark 102-storey supertall development rising over 500 meters in Trade Centre First, Dubai BY API. The luxury development features a dual-tower configuration with a 200-meter cantilevered sky lobby, housing a 5-star Corinthia Hotel, branded serviced residences, and world-class leisure facilities.\n\nAs BIM Coordinator, led information management, model federation, quality assurance, clash coordination, and workflow automation across complex architectural, structural, and MEP packages to support seamless multidisciplinary delivery.\n\nBEP Implementation & Information Standards:\n• BEP Execution & Compliance: Implemented and enforced the project BIM Execution Plan (BEP) across multi-consultant design teams, establishing LOD/LOIN requirements, data drops, and milestone deliverables aligned with ISO 19650 standards.\n• Strict Naming Conventions: Structured and maintained standardized naming protocols across all model containers, sheets, views, worksets, and model elements, eliminating asset discrepancies across all shared and published datasets.\n• Automated Title Block & Sheet Management: Controlled document metadata integrity across hundreds of drawing packages, enforcing parameter synchronization across linked disciplinary files.\n\nModel Linking Strategy & Multi-Tower Federation:\n• High-Rise Linking Hierarchy: Formulated a structured model breakdown and linking strategy (zoning by podium, core, lower/upper tower zones, sky lobby, and plant rooms) to optimize file sizes and sync speeds.\n• Georeferencing & Shared Coordinates: Audited and aligned global coordinate systems and true north orientations, ensuring zero spatial drift across structural, architectural, MEP, and façade sub-models.\n\nMulti-Disciplinary QA/QC & Clash Health:\n• Clash Detection & Health Audits: Led multidisciplinary coordination meetings in Navisworks Manage; configured clash matrix tests, resolved thousands of clashes, and tracked trade ownership with clear SLAs.\n• Model QA/QC Diagnostics: Conducted regular model health checks to monitor file corruption, purge unplaced elements, and resolve warnings before milestone publishing.\n\nCustom Automation & pyRevit Development:\n• Custom pyRevit Extension Suite: Authored in-house Python scripts via pyRevit to automate repetitive tasks—including automated parameter population, batch sheet generation, and geometry audits.\n• BIM Productivity Gains: Reduced weekly documentation turnaround times by building automated tools for title block updates, QA checks, and clash report data extraction.",
   },
   {
     title: "BIM Coordination Project",
