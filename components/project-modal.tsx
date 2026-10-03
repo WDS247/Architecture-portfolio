@@ -63,7 +63,7 @@ export function ProjectModal({ project, onClose }: ProjectModalProps) {
 
         {/* Description */}
         <div className="px-8 pt-6 pb-4">
-          <p className="text-muted-foreground leading-relaxed">
+          <p className="text-muted-foreground leading-relaxed whitespace-pre-line text-base">
             {project.description}
           </p>
         </div>
