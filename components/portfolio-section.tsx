@@ -27,7 +27,7 @@ const projects = [
   {
     title: "1 Park Gate Residences (wasl1)",
     category: "BIM Coordination & Computational BIM",
-    cover: "/projects/BIM Coordination & Computational BIM/cover.jpg",
+    cover: "/projects/BIM-Coordination-&-Computational-BIM/cover.jpg",
     gallery: ["/projects/BIM Coordination & Computational BIM/render-1.jpg",
       "/projects/BIM-Coordination-&-Computational-BIM/render-2.jpg",
       "/projects/BIM-Coordination-&-Computational-BIM/render-3.jpg",
