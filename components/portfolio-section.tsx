@@ -92,16 +92,21 @@ const projects = [
       "Complete interior renovation with custom furniture design and high-end finishes. Every detail carefully curated to create a sophisticated and comfortable living space.",
   },
   {
-    title: "Commercial Mixed-Use Development",
+    title: "AL Ain Desert Resort",
     category: "Architecture & Commercial Design",
     cover: "/projects/commercial-mixed-use-development/cover.jpg",
     gallery: [
       "/projects/commercial-mixed-use-development/render-1.jpg",
       "/projects/commercial-mixed-use-development/render-2.jpg",
       "/projects/commercial-mixed-use-development/render-3.jpg",
+      "/projects/commercial-mixed-use-development/render-4.jpg",
+      "/projects/commercial-mixed-use-development/render-5.jpg",
+      "/projects/commercial-mixed-use-development/render-6.jpg",
+      "/projects/commercial-mixed-use-development/render-7.jpg",
+      "/projects/commercial-mixed-use-development/render-8.jpg",
     ],
     description:
-      "Large-scale mixed-use development with retail, office, and residential components. Designed to create a vibrant urban environment with seamless integration of multiple functions.",
+      "A luxury hospitality retreat designed to seamlessly synthesize contemporary commercial architecture with the raw topography of the desert landscape[cite: 6].\n\nArchitectural Concept & Form:\n• Biophilic Dune Geometry: Shaped through undulating, wind-sculpted silhouettes that abandon rigid lines in favor of organic, sweeping forms rising gently from the desert terrain[cite: 6].\n• Site Harmony: Composed as a series of distinct yet interconnected spatial gestures, creating an intimate village scale that integrates effortlessly into the surrounding dunes[cite: 6].\n\nInterior Atmosphere & Materiality:\n• Seamless Transitions: Interiors echo the exterior fluid contours, bringing desert-toned lime plasters, rammed-earth textures, and honed local stone into guest suites and communal lounges.\n• Climate-Responsive Luxury: Strategic shading, deeply recessed facades, and curated thermal transitions establish a calm, contemplative oasis shielded from the exterior desert heat[cite: 6].\n• Experiential Hospitality: Curated sightlines frame sweeping horizon views, delivering a peaceful, grounded, and immersive desert sanctuary[cite: 6].",
   },
   {
   title: "Revit Project Setup and Clash Detection",
