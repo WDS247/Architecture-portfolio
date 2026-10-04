@@ -2,7 +2,6 @@
 
 import { useEffect } from "react";
 import { X } from "lucide-react";
-import Image from "next/image";
 
 interface ProjectModalProps {
   project: {
@@ -63,7 +62,7 @@ export function ProjectModal({ project, onClose }: ProjectModalProps) {
 
         {/* Description */}
         <div className="px-8 pt-6 pb-4">
-          <p className="text-muted-foreground leading-relaxed">
+          <p className="text-muted-foreground leading-relaxed whitespace-pre-line text-base">
             {project.description}
           </p>
         </div>
@@ -77,21 +76,19 @@ export function ProjectModal({ project, onClose }: ProjectModalProps) {
             return (
               <div
                 key={index}
-                className="relative w-full aspect-[16/9] overflow-hidden rounded-xl bg-muted"
+                className="w-full flex items-center justify-center overflow-hidden rounded-xl bg-muted/20"
               >
                 {isVideo ? (
                   <video
                     src={filePath}
                     controls
-                    className="w-full h-full object-cover rounded-xl"
+                    className="w-full h-auto max-h-[85vh] rounded-xl"
                   />
                 ) : (
-                  <Image
+                  <img
                     src={filePath}
-                    alt={`${project.title} - Media ${index + 1}`}
-                    fill
-                    className="object-cover rounded-xl"
-                    sizes="(max-width: 1280px) 100vw, 1280px"
+                    alt={`${project.title} Media ${index + 1}`}
+                    className="w-auto h-auto max-h-[85vh] max-w-full object-contain rounded-xl"
                   />
                 )}
               </div>

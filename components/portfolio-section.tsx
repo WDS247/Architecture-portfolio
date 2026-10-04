@@ -7,24 +7,43 @@ import { ProjectModal } from "./project-modal"
 
 const projects = [
   {
-    title: "Modern Residential Complex",
-    category: "Architecture & Commercial Design",
-    cover: "/projects/modern-residential-complex/cover.jpg",
+    title: "HIGH RISE TOWERS-API-DUBAI",
+    category: "BIM Coordination & Computational BIM",
+    cover: "/projects/HIGH RISE TOWERS-API-DUBAI/cover.jpg",
     gallery: [
-      "/projects/modern-residential-complex/render-1.jpg",
-      "/projects/modern-residential-complex/render-2.jpg",
-      "/projects/modern-residential-complex/render-3.jpg",
+      "/projects/HIGH RISE TOWERS-API-DUBAI/render-1.jpg",
+      "/projects/HIGH RISE TOWERS-API-DUBAI/render-2.jpg",
+      "/projects/HIGH RISE TOWERS-API-DUBAI/render-3.jpg",
+      "/projects/HIGH RISE TOWERS-API-DUBAI/render-4.jpg",
+      "/projects/HIGH RISE TOWERS-API-DUBAI/render-5.jpg",
+      "/projects/HIGH RISE TOWERS-API-DUBAI/render-6.jpg",
+      "/projects/HIGH RISE TOWERS-API-DUBAI/render-7.jpg",
+      "/projects/HIGH RISE TOWERS-API-DUBAI/render-8.jpg",
+      "/projects/HIGH RISE TOWERS-API-DUBAI/render-9.jpg",
+      "/projects/HIGH RISE TOWERS-API-DUBAI/render-10.jpg"
     ],
     description:
-      "A sustainable residential project featuring smart building systems and BIM coordination across all disciplines. This development integrates cutting-edge technology with environmentally conscious design principles.",
+      "Corinthia Dubai is a landmark 102-storey supertall development rising over 500 meters in Trade Centre First, Dubai BY API. The luxury development features a dual-tower configuration with a 200-meter cantilevered sky lobby, housing a 5-star Corinthia Hotel, branded serviced residences, and world-class leisure facilities.\n\nAs BIM Coordinator, led information management, model federation, quality assurance, clash coordination, and workflow automation across complex architectural, structural, and MEP packages to support seamless multidisciplinary delivery.\n\nBEP Implementation & Information Standards:\n• BEP Execution & Compliance: Implemented and enforced the project BIM Execution Plan (BEP) across multi-consultant design teams, establishing LOD/LOIN requirements, data drops, and milestone deliverables aligned with ISO 19650 standards.\n• Strict Naming Conventions: Structured and maintained standardized naming protocols across all model containers, sheets, views, worksets, and model elements, eliminating asset discrepancies across all shared and published datasets.\n• Automated Title Block & Sheet Management: Controlled document metadata integrity across hundreds of drawing packages, enforcing parameter synchronization across linked disciplinary files.\n\nModel Linking Strategy & Multi-Tower Federation:\n• High-Rise Linking Hierarchy: Formulated a structured model breakdown and linking strategy (zoning by podium, core, lower/upper tower zones, sky lobby, and plant rooms) to optimize file sizes and sync speeds.\n• Georeferencing & Shared Coordinates: Audited and aligned global coordinate systems and true north orientations, ensuring zero spatial drift across structural, architectural, MEP, and façade sub-models.\n\nMulti-Disciplinary QA/QC & Clash Health:\n• Clash Detection & Health Audits: Led multidisciplinary coordination meetings in Navisworks Manage; configured clash matrix tests, resolved thousands of clashes, and tracked trade ownership with clear SLAs.\n• Model QA/QC Diagnostics: Conducted regular model health checks to monitor file corruption, purge unplaced elements, and resolve warnings before milestone publishing.\n\nCustom Automation & pyRevit Development:\n• Custom pyRevit Extension Suite: Authored in-house Python scripts via pyRevit to automate repetitive tasks—including automated parameter population, batch sheet generation, and geometry audits.\n• BIM Productivity Gains: Reduced weekly documentation turnaround times by building automated tools for title block updates, QA checks, and clash report data extraction.",
   },
   {
-    title: "BIM Coordination Project",
-    category: "BIM Projects",
-    cover: "/projects/bim-coordination-project/cover.jpg",
-    gallery: ["/projects/bim-coordination-project/render-1.jpg", "/projects/bim-coordination-project/render-2.jpg"],
+    title: "1 Park Gate Residences (wasl1)",
+    category: "BIM Coordination & Computational BIM",
+    cover: "/projects/BIM-Coordination-&-Computational-BIM/cover.jpg",
+    gallery: ["/projects/BIM Coordination & Computational BIM/render-1.jpg",
+      "/projects/BIM-Coordination-&-Computational-BIM/render-2.jpg",
+      "/projects/BIM-Coordination-&-Computational-BIM/render-3.jpg",
+      "/projects/BIM-Coordination-&-Computational-BIM/render-4.jpg",
+      "/projects/BIM-Coordination-&-Computational-BIM/render-5.jpg",
+      "/projects/BIM-Coordination-&-Computational-BIM/render-6.jpg",
+      "/projects/BIM-Coordination-&-Computational-BIM/render-7.jpg",
+      "/projects/BIM-Coordination-&-Computational-BIM/render-8.jpg",
+      "/projects/BIM-Coordination-&-Computational-BIM/render-9.jpg",
+      "/projects/BIM-Coordination-&-Computational-BIM/render-10.jpg",
+      "/projects/BIM-Coordination-&-Computational-BIM/render-11.jpg",
+      "/projects/BIM-Coordination-&-Computational-BIM/render-12.jpg",
+      "/projects/BIM-Coordination-&-Computational-BIM/render-13.jpg"],
     description:
-      "Complete BIM coordination for a commercial building with clash detection and ISO 19650 compliance. Streamlined collaboration across multiple disciplines ensuring zero conflicts in construction.",
+      "1 Park Gate Residences (wasl1) is a prestigious multi-tower luxury residential development overlooking Zabeel Park in Dubai, featuring four curved high-rise towers linked by a podium with top-tier residential and retail amenities.\n\nAs BIM Coordinator, spearheaded multidisciplinary clash management, model health optimization, and automated delivery workflows across architectural, structural, and complex MEP packages, strictly adhering to ISO 19650 standards.\n\nISO 19650 Compliance & Naming Conventions:\n• Information Management Framework: Enforced ISO 19650 standard workflows across all design stages, overseeing CDE information exchanges, status codes, revision metadata, and milestone data verification.\n• Strict Naming Standards: Implemented and audited unified naming protocols across all project containers, Revit central files, worksets, views, sheets, and custom loadable families, guaranteeing zero naming clutter across disciplines.\n\nRevizto Clash Detection & Cloud Issue Tracking:\n• Revizto Issue Tracker Integration: Centralized multidisciplinary coordination inside Revizto, transforming geometric clashes into actionable tasks with assigned trade ownership, priority levels, and turnaround deadlines.\n• Live Coordination & 2D/3D Hybrid Verification: Managed end-to-end clash lifecycles in synchronization with native Revit files; utilized Revizto’s 2D sheet overlays over federated 3D models to eliminate design discrepancies before site execution.\n• Multidisciplinary Coordination Sessions: Chaired regular BIM coordination meetings across trades, resolving complex high-density MEP riser, plant room, and structural interface conflicts in real time.\n\nModel Health Diagnostics & Warning Audits (Ideate Software):\n• In-Depth Warning Resolution: Utilized Ideate Warnings Manager to audit, isolate, and resolve critical and high-priority Revit warnings, stabilizing central model performance across all four towers.\n• Family & Parameter Cleanliness: Leveraged Ideate Explorer and BIMLink to scrub redundant element parameters, purge corrupted or nested families, and preserve peak project health before publication.\n\nWorkflow Automation & Custom Plugin Development:\n• In-House BIM Plugins: Authored custom automation plugins to eliminate repetitive, manual coordination tasks—including automated parameter synchronizations, batch view/sheet setups, and automated file-naming validators.\n• Automated Reporting & Efficiency: Streamlined clash extraction and model audit turnaround times, boosting overall team productivity and ensuring clean, error-free deliverables.",
   },
   {
     title: "Contemporary Office Interior",
@@ -73,16 +92,22 @@ const projects = [
       "Complete interior renovation with custom furniture design and high-end finishes. Every detail carefully curated to create a sophisticated and comfortable living space.",
   },
   {
-    title: "Commercial Mixed-Use Development",
+    title: "AL Ain Desert Resort",
     category: "Architecture & Commercial Design",
     cover: "/projects/commercial-mixed-use-development/cover.jpg",
     gallery: [
       "/projects/commercial-mixed-use-development/render-1.jpg",
       "/projects/commercial-mixed-use-development/render-2.jpg",
       "/projects/commercial-mixed-use-development/render-3.jpg",
+      "/projects/commercial-mixed-use-development/render-4.jpg",
+      "/projects/commercial-mixed-use-development/render-5.jpg",
+      "/projects/commercial-mixed-use-development/render-6.jpg",
+      "/projects/commercial-mixed-use-development/render-7.jpg",
+      "/projects/commercial-mixed-use-development/render-8.jpg",
+      "/projects/commercial-mixed-use-development/render-9.jpg",
     ],
     description:
-      "Large-scale mixed-use development with retail, office, and residential components. Designed to create a vibrant urban environment with seamless integration of multiple functions.",
+      "A luxury hospitality retreat designed to seamlessly synthesize contemporary commercial architecture with the raw topography of the desert landscape.\n\nArchitectural Concept & Form:\n• Biophilic Dune Geometry: Shaped through undulating, wind-sculpted silhouettes that abandon rigid lines in favor of organic, sweeping forms rising gently from the desert terrain.\n• Site Harmony: Composed as a series of distinct yet interconnected spatial gestures, creating an intimate village scale that integrates effortlessly into the surrounding dunes.\n\nInterior Atmosphere & Materiality:\n• Seamless Transitions: Interiors echo the exterior fluid contours, bringing desert-toned lime plasters, rammed-earth textures, and honed local stone into guest suites and communal lounges.\n• Climate-Responsive Luxury: Strategic shading, deeply recessed facades, and curated thermal transitions establish a calm, contemplative oasis shielded from the exterior desert heat.\n• Experiential Hospitality: Curated sightlines frame sweeping horizon views, delivering a peaceful, grounded, and immersive desert sanctuary.",
   },
   {
   title: "Revit Project Setup and Clash Detection",
@@ -178,7 +203,7 @@ const projects = [
 
 ]
 
-const categories = ["All", "BIM Projects", "Architecture & Commercial Design", "Interior Design"]
+const categories = ["All", "BIM-Coordination-&-Computational-BIM", "Architecture & Commercial Design", "Interior Design"]
 
 export function PortfolioSection() {
   const [activeCategory, setActiveCategory] = useState("All")
