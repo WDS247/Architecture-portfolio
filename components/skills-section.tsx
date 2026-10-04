@@ -6,11 +6,11 @@ import { Badge } from "./ui/badge"
 const skillCategories = [
   {
     title: "BIM & Technical Tools",
-    skills: ["Revit", "Dynamo", "Navisworks", "Solibri", "BlenderBIM", "BIM360", "IfcOpenShell", "COBie", "ISO 19650"],
+    skills: ["Revit", "Dynamo", "Revizto", "Solibri", "BlenderBIM", "BIM360", "IfcOpenShell", "COBie", "ISO 19650"],
   },
   {
     title: "AI & Computational Design",
-    skills: ["Midjourney", "DALL·E", "Veras.ai", "LookX", "Python for AI"],
+    skills: ["Midjourney", "DALL·E", "Veras.ai", "Pyrevit", "MCP CLAUDE", "LookX", "Python for AI"],
   },
   {
     title: "Visualization & Rendering",
